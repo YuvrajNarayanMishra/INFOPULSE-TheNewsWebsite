@@ -13,9 +13,9 @@
 
 ---
 
-Run Using This Link : https://yuvrajnarayanmishra.github.io/Random-Password-Generator/
+Run Using This Link : https://yuvrajnarayanmishra.github.io/News-Website/
 
-<h3> Demo Here </h3>
+<h3> Demo Here: </h3>
 
-![demo](https://user-images.githubusercontent.com/99082388/233193093-2e62a9b1-0887-4eb8-b92f-3c2bc0f812f2.png)
+![Screenshot 2023-11-29 183857](https://github.com/YuvrajNarayanMishra/News-Website/assets/99082388/84108262-021f-45e4-a69f-f1a5b6eefec6)
 <br>
