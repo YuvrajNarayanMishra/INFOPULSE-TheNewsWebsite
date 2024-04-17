@@ -9,9 +9,9 @@
   <li>JavaScript</li>
 </ul>
 
-#### Steps to Use:
+### How to Run?
 
----
+To run my application you simply need to download the project and run the html file.
 
 Run Using This Link : https://yuvrajnarayanmishra.github.io/News-Website/
 
