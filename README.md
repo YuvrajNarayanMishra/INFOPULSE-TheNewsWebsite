@@ -13,7 +13,7 @@
 
 To run my application you simply need to download the project and run the html file.
 
-Run Using This Link : https://yuvrajnarayanmishra.github.io/News-Website/
+Run Using This Link : https://yuvrajnarayanmishra.github.io/INFOPULSE-TheNewsWebsite/
 
 <h3> Demo Here: </h3>
 
